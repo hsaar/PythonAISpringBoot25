@@ -2,6 +2,10 @@
 
 스프링부트와파이썬AI협업모듈
 
+<img width="2813" height="1372" alt="image" src="https://github.com/user-attachments/assets/873cf94f-744a-4171-8c0b-44bcff311d6b" />
+
+iptime ipcam을 셋팅한다. -> 리셋 -> ip휴대폰으로 연결 vms 셋팅을 진행한다. -> rtsp 프로토콜 활성화
+
 개발환경구축
 
 파이썬 인터프리터 : http://www.python.org/ -> 3.12버전 설치(3.8이상필수)
